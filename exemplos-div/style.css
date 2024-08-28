@@ -1,0 +1,52 @@
+body{
+    background-color: #3e54cf;
+}
+.flex{
+    display: flex;
+}
+.div-branca{
+    width: 300px;
+    height: 300px; 
+    background-color: silver;
+    margin: 3px;
+    border: 1px solid silver;
+    border-radius: 6px;
+}
+.div-vermelha{
+    width: 300px;
+    height: 300px;
+    background: #821717;
+    margin: 3px;
+    border: 1px solid #821717;
+    border-radius: 6px;
+}
+.div-azul{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 3px;
+    border: 1px solid blue;
+    border-radius: 6px;
+}
+.div-roxa{
+    width: 500px;
+    height: 150px;
+    background-color: purple;
+    margin: 3px;
+    border: 1px solid purple;
+    border-radius: 6px;
+}
+
+/* */
+.div-small{
+    width: 20px;
+    height: 20px;
+    background: black;
+    margin: 2px;
+}
+.div-ret-small{
+    width: 20px;
+    height: 40px;
+    background: yellow;
+    margin: 3px;
+}
